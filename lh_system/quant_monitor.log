@@ -1,0 +1,1010 @@
+2026-03-22 20:32:32,489 - QuantMonitor - WARNING - ollama导入失败: No module named 'ollama'，本地模型功能不可用。
+2026-03-22 20:32:37,159 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-22 20:32:39,070 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 20:32:49,275 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 20:32:49,337 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 20:33:02,235 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:33:19,548 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:33:36,970 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:33:54,065 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:34:11,563 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:34:29,610 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:34:47,854 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:35:06,291 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:35:24,595 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:35:42,858 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:36:00,988 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:36:18,889 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:36:36,746 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:36:54,529 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:37:11,470 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:37:28,963 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:37:46,616 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:38:04,384 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:38:21,875 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:38:39,849 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:38:57,206 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:39:14,231 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:39:31,508 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:39:48,758 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:40:06,214 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:40:24,090 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:40:41,836 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:40:59,644 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:41:17,586 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:41:35,505 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:41:53,407 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:42:10,505 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:42:28,083 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:42:46,088 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:42:49,348 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 20:43:03,948 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:43:21,201 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:43:38,549 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:43:56,822 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:44:15,517 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:44:33,318 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:44:50,992 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:45:08,880 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:45:27,665 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:45:45,765 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:46:04,323 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:46:22,335 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:46:41,047 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:46:59,424 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:47:19,396 - QuantMonitor - WARNING - ollama导入失败: No module named 'ollama'，本地模型功能不可用。
+2026-03-22 20:47:24,232 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-22 20:47:26,185 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 20:47:36,998 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 20:47:37,060 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 20:47:49,180 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:48:05,991 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:48:23,344 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:48:40,818 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:48:59,496 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:49:18,191 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:49:36,886 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:49:55,559 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:50:14,227 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:50:32,952 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:50:35,108 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 20:50:51,785 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:51:06,264 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 20:51:10,531 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:51:28,646 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:51:46,457 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:52:02,944 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:52:18,690 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:52:34,656 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:52:50,257 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:53:08,840 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:53:27,548 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:53:45,376 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:54:02,898 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:54:21,483 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:54:40,169 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:54:58,400 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:55:15,587 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:55:33,552 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:55:52,250 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:56:04,287 - QuantMonitor - WARNING - ollama导入失败: No module named 'ollama'，本地模型功能不可用。
+2026-03-22 20:56:09,469 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-22 20:56:11,627 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 20:56:25,548 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 20:56:25,610 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 20:56:37,856 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:56:55,595 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:57:13,064 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:57:30,967 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:58:28,707 - QuantMonitor - WARNING - ollama导入失败: No module named 'ollama'，本地模型功能不可用。
+2026-03-22 20:58:33,533 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-22 20:58:35,454 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 20:59:12,689 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 20:59:12,755 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 20:59:25,407 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 20:59:43,319 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:00:01,849 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:00:20,580 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:00:39,072 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:00:56,593 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:01:14,742 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:01:33,377 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:01:52,058 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:02:10,731 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:02:30,552 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:02:48,762 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:03:07,164 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:03:24,760 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:03:36,422 - QuantMonitor - WARNING - ollama导入失败: No module named 'ollama'，本地模型功能不可用。
+2026-03-22 21:03:36,423 - QuantMonitor - WARNING - stable-baselines3导入失败: No module named 'stable_baselines3'，强化学习执行功能不可用。
+2026-03-22 21:03:41,476 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 21:03:54,535 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 21:03:54,610 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 21:04:07,277 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:04:24,704 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:04:42,568 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:05:01,588 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:05:19,506 - QuantMonitor - WARNING - stable-baselines3导入失败: No module named 'stable_baselines3'，强化学习执行功能不可用。
+2026-03-22 21:05:24,422 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 21:05:36,120 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 21:05:36,311 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 21:05:47,976 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:06:04,610 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:06:21,313 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:06:38,351 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:06:55,032 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:07:24,461 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-03-22 21:07:24,472 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:07:25,690 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:07:42,201 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:07:58,444 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:08:13,915 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:08:29,350 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:08:45,279 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:09:01,694 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:09:18,984 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:09:36,380 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:09:53,485 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:10:10,574 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:10:27,813 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:10:44,802 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:11:01,831 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:11:18,973 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:11:36,458 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:11:54,148 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:12:11,985 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:12:54,007 - QuantMonitor - WARNING - stable-baselines3导入失败: No module named 'stable_baselines3'，强化学习执行功能不可用。
+2026-03-22 21:12:58,844 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 21:13:12,435 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 21:13:12,632 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 21:13:25,105 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:13:42,420 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:14:00,042 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:14:14,169 - QuantMonitor - WARNING - stable-baselines3导入失败: No module named 'stable_baselines3'，强化学习执行功能不可用。
+2026-03-22 21:14:18,739 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 21:14:36,303 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 21:14:36,491 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 21:14:48,482 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:15:05,169 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:15:23,913 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:15:42,621 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:15:59,091 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:16:15,951 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:16:32,814 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:16:49,681 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:17:06,689 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:17:23,378 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:17:50,542 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-03-22 21:17:50,594 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:18:10,641 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-03-22 21:18:10,677 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:18:12,358 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:18:28,649 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:18:44,516 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:18:59,871 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:19:15,041 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 21:19:31,356 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:37:31,465 - QuantMonitor - WARNING - stable-baselines3导入失败: No module named 'stable_baselines3'，强化学习执行功能不可用。
+2026-03-22 22:37:36,880 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 22:37:47,905 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 22:37:48,131 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 22:38:00,304 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:38:17,066 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:38:34,429 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:38:51,435 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:39:08,357 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:39:25,707 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:39:43,845 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:40:01,543 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:40:18,726 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:40:35,714 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:40:52,725 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:41:09,919 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:41:27,852 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:41:44,892 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:42:02,005 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:42:19,803 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:42:37,764 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:42:55,774 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:43:13,195 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:43:31,005 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:43:48,800 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:44:06,112 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:44:23,060 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:44:40,894 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:44:58,649 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:45:15,916 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:45:33,222 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:45:50,023 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:46:06,935 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:46:23,817 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:46:40,752 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:46:57,742 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:47:14,395 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:47:31,422 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:47:48,153 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 22:47:48,310 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:48:05,076 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:48:22,059 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:48:38,779 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:48:55,659 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:49:13,053 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:49:30,893 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:49:48,481 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:50:06,243 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:50:24,082 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:50:41,738 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:50:59,336 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:51:16,740 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:51:33,674 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:51:50,569 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:52:07,559 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:52:24,601 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:52:38,059 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 22:52:42,001 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:52:42,357 - QuantMonitor - INFO - 000006 已加入自选股
+2026-03-22 22:52:47,477 - QuantMonitor - INFO - 000028 已加入自选股
+2026-03-22 22:52:58,601 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:53:13,978 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:53:29,812 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:53:45,335 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:54:01,652 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:54:17,552 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:54:33,528 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:54:49,087 - QuantMonitor - INFO - 非交易时段，无需刷新
+2026-03-22 22:54:50,505 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:55:07,549 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:55:25,050 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:55:42,531 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:55:59,899 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:56:17,593 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:56:35,664 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:56:53,462 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:57:12,164 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:57:30,873 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:57:48,148 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 22:57:49,599 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:58:06,618 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:58:23,548 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:58:40,358 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:58:57,204 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:59:14,038 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:59:30,901 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 22:59:47,761 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:00:04,758 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:00:21,670 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:00:38,635 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:00:55,474 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:01:13,813 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:01:32,539 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:01:51,269 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:02:09,979 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:02:28,581 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:02:45,495 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:03:02,294 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:03:19,147 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:03:35,960 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:03:53,450 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:04:12,174 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:04:30,876 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:04:49,587 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:05:08,296 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:05:26,993 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:05:45,703 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:06:04,287 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:06:21,996 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:06:39,758 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:06:57,583 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:07:14,786 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:07:32,162 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:07:48,152 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 23:07:49,844 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:08:07,633 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:08:25,290 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:08:42,460 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:08:59,811 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:09:16,901 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:09:33,719 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:09:50,696 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:10:08,201 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:10:25,581 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:10:42,970 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:11:00,124 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:11:17,559 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:11:34,917 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:11:52,224 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:12:09,253 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:12:26,416 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:12:43,802 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:13:11,682 - QuantMonitor - WARNING - stable-baselines3导入失败: No module named 'stable_baselines3'，强化学习执行功能不可用。
+2026-03-22 23:13:17,441 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 23:13:28,632 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 23:13:28,876 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 23:13:41,461 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:13:59,077 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:14:16,644 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:14:34,450 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:14:52,395 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:15:11,131 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:15:29,853 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:15:48,595 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:16:07,341 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:16:26,086 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:16:44,829 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:17:03,575 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:17:22,312 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:17:41,046 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:17:59,771 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:18:18,509 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:18:37,234 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:18:55,978 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:19:14,715 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:19:33,488 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:19:52,231 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:20:10,958 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:20:29,689 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:20:48,411 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:21:07,112 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:21:25,810 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:21:44,496 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:22:04,200 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:22:22,950 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:22:41,683 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:23:00,384 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:23:19,063 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:23:28,895 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 23:23:37,780 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:23:55,145 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:24:12,544 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:24:22,949 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 23:24:23,002 - QuantMonitor - INFO - 监控股票已更新: ['600109']
+2026-03-22 23:24:35,592 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:24:41,576 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 23:24:48,969 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 23:24:53,965 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:25:08,764 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 23:25:11,904 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:25:31,453 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:58:06,997 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-22 23:58:09,079 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-22 23:58:19,534 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-22 23:58:19,688 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-22 23:58:32,038 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:58:33,812 - QuantMonitor - INFO - 板块已更新
+2026-03-22 23:58:40,377 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 23:58:50,751 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:59:09,435 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:59:28,117 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-22 23:59:34,568 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 23:59:42,456 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-22 23:59:46,123 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:00:02,978 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:00:19,050 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:00:34,173 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:00:49,382 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:00:52,500 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 00:00:52,502 - QuantMonitor - INFO - 监控股票已更新: ['000006', '000068', '000061', '000338', '000066', '000009', '000016', '000070', '000301', '000402']
+2026-03-23 00:01:02,793 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:01:03,964 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:01:15,404 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:01:20,892 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:01:37,513 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:01:54,303 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:02:11,231 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:02:27,866 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:02:43,965 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:03:01,156 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:03:18,085 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:03:34,958 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:03:51,495 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:04:08,215 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:04:25,395 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:04:42,558 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:04:59,553 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:05:17,386 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:05:35,618 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:05:53,370 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:06:11,296 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:06:29,056 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:06:46,697 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:07:04,555 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:07:22,651 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:07:40,737 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:07:58,152 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:08:14,754 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:08:19,709 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 00:08:32,516 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:08:50,250 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:09:08,047 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:09:25,384 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:09:43,475 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:10:00,442 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:10:17,169 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:10:33,981 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:10:50,814 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:11:07,785 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:11:28,861 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-23 00:11:30,866 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-23 00:12:47,465 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-23 00:12:49,441 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-23 00:12:59,526 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-23 00:12:59,733 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 00:13:04,800 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:13:12,630 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:13:31,412 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:13:44,183 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:13:50,128 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:14:08,816 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:14:23,536 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:14:27,621 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:14:46,301 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:15:05,978 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:15:24,727 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:15:43,421 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:16:02,128 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:17:42,975 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-23 00:17:45,016 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-23 00:17:55,139 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-23 00:17:55,343 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 00:18:07,117 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:18:24,286 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:18:41,662 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:18:59,120 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:19:16,672 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:19:34,301 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:19:52,807 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:20:11,512 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:20:30,207 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:20:48,916 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:21:07,221 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:21:32,591 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-23 00:21:34,514 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-23 00:21:40,639 - QuantMonitor - INFO - AKShare 获取股票名称失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))，使用手动映射
+2026-03-23 00:21:40,839 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 00:21:53,678 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:47:13,452 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-23 00:47:15,484 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-23 00:47:25,357 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-23 00:47:25,559 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 00:47:31,611 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:47:38,454 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:47:55,809 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:48:12,601 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:48:19,967 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:48:28,136 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 00:48:30,006 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:48:46,864 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 00:49:03,753 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:19:44,579 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-03-23 11:19:46,490 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-03-23 11:20:00,140 - QuantMonitor - INFO - 已加载 5491 只股票名称
+2026-03-23 11:20:00,355 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 11:20:13,115 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:20:26,292 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 11:20:31,826 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:20:50,125 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:21:09,181 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:21:27,750 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:21:46,793 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:22:05,742 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:22:22,696 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:22:39,495 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:22:56,216 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:23:12,986 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:23:29,824 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:23:46,885 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:24:03,737 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:24:20,637 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:24:38,233 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:24:56,317 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:25:14,304 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:25:31,843 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:25:48,523 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:26:05,232 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:26:21,863 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:26:38,921 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:26:56,316 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:27:12,899 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:27:29,779 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:27:46,556 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:28:03,301 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:28:19,981 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:28:36,635 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:28:53,365 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:29:10,032 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:29:26,666 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:29:43,333 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:30:00,045 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:30:00,361 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 11:30:16,696 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:30:33,311 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:30:50,065 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:31:06,759 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:31:23,467 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:31:40,357 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:31:56,914 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:32:14,237 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:32:31,481 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:32:48,339 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:33:05,009 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:33:21,751 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:33:38,643 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:33:55,441 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:34:12,201 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:34:28,834 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:34:45,628 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:35:02,513 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:35:19,256 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:35:35,879 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:35:52,613 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:36:09,409 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:36:26,219 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:36:42,949 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:36:59,654 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:37:16,314 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:37:33,535 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:37:50,224 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:42:12,089 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:42:28,666 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:42:45,260 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:43:03,420 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:43:21,834 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:43:40,494 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:43:59,167 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:44:06,301 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 11:44:17,896 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:44:36,733 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:44:55,506 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:45:14,251 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:45:32,632 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:45:51,347 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:46:10,063 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:46:28,754 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:46:47,504 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:47:06,237 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:47:24,941 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:47:43,685 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:48:02,424 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:48:21,130 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:48:39,827 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:48:58,595 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:49:17,296 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:49:36,008 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:49:54,728 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:50:13,475 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:50:32,217 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:50:50,933 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:51:09,663 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:51:28,407 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:51:47,132 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:52:05,906 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:52:24,676 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:52:33,819 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 11:52:42,207 - QuantMonitor - INFO - 非交易时段，无需刷新
+2026-03-23 11:52:43,729 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:52:52,216 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 11:53:02,765 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:53:21,785 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:53:40,794 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:53:59,842 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:54:06,301 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 11:54:18,782 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:54:37,835 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:54:56,886 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:55:15,931 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:55:34,973 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:55:54,016 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:56:13,048 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:56:32,098 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:56:51,150 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:57:10,196 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:57:29,241 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:57:48,286 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:58:07,315 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:58:26,363 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:58:45,408 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:59:04,436 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:59:23,436 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 11:59:42,480 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:00:01,528 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:00:20,570 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:00:39,617 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:00:58,663 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:01:17,707 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:01:36,746 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:01:55,784 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:02:14,824 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:02:33,865 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:02:52,912 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:03:11,954 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:03:30,995 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:03:50,050 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:04:06,300 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 12:04:09,089 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:04:28,131 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:04:47,171 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:05:06,205 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:05:25,237 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:05:44,275 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:06:03,317 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:06:22,345 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:06:41,389 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:07:00,439 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:07:19,488 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:07:38,536 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:07:57,582 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:08:16,639 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:08:35,694 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:08:54,745 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:09:13,804 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:09:32,858 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:09:51,912 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:10:10,964 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:10:30,012 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:10:49,054 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 12:11:08,111 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:27:13,436 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:27:31,783 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:27:50,762 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:28:08,002 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:28:25,631 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:28:44,229 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:29:03,306 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:29:20,471 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:29:39,546 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:29:54,531 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 13:29:58,473 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:30:14,882 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:30:31,291 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:30:50,223 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:31:09,290 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:31:26,297 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:31:43,429 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:32:02,496 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:32:21,568 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:32:40,650 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:32:59,726 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:33:18,819 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:33:36,464 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:33:52,969 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:34:09,307 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:34:27,451 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:34:44,569 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:35:03,660 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:35:22,748 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:35:39,978 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:35:59,048 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:36:16,657 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:36:33,200 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:36:50,566 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:37:09,633 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:37:28,712 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:37:47,780 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:38:04,989 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:38:24,057 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:38:41,286 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:39:00,378 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:39:19,156 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:39:36,422 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:39:54,519 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 13:39:55,471 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:40:14,532 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:40:32,881 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:40:50,902 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:41:08,255 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:41:26,707 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:41:44,583 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:42:02,479 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:42:20,840 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:42:39,927 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:42:59,014 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:43:18,100 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:43:35,827 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:43:52,542 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:44:11,639 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:44:29,497 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:44:47,962 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:45:07,030 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:45:24,761 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:45:42,623 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:46:00,395 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:46:17,695 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:46:36,774 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:46:54,753 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:47:13,090 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:47:32,179 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:47:50,079 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:48:08,597 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:48:27,186 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:48:43,622 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:49:02,090 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:49:21,169 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 13:49:40,246 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:11:39,884 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 15:11:42,169 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:11:59,216 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:12:15,979 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:12:32,741 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:12:49,481 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:13:06,365 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:13:23,167 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:13:39,938 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:13:57,603 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:14:14,684 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:14:31,328 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:14:48,084 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:15:04,738 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:15:21,472 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:15:38,017 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:15:54,902 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:16:11,598 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:16:28,242 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:16:45,407 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:17:02,744 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:17:19,836 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:17:36,678 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:17:53,703 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:18:10,813 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:18:28,834 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:18:46,122 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:19:03,944 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:19:20,890 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:19:39,244 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:19:57,912 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:20:16,251 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:20:33,945 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:20:51,724 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:21:10,302 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:21:28,405 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:21:39,890 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 15:21:46,270 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:22:04,333 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:22:22,461 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:22:40,835 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:22:59,123 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:23:17,182 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:23:35,079 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:23:53,848 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:24:12,926 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:24:32,010 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:24:51,076 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:25:10,041 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:25:28,787 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:25:47,832 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:26:06,877 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:26:25,930 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:26:44,979 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:27:04,025 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:27:23,074 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:27:42,114 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:28:01,166 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:28:20,216 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:28:39,260 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:28:58,312 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:29:17,349 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:29:36,398 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:29:55,433 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:30:13,575 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:30:19,928 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 15:30:23,085 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 15:30:25,976 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 15:30:32,373 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:30:49,063 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:31:04,213 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:31:09,818 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-03-23 15:31:09,819 - QuantMonitor - INFO - 监控股票已更新: ['000338', '000555', '000070', '000006', '000016', '000009', '000402', '000061', '000066', '000068', '000301']
+2026-03-23 15:31:14,655 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-03-23 15:31:24,222 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-03-23 15:31:39,886 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 14:19:04,905 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 14:19:07,274 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 14:19:21,125 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 14:19:21,227 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 14:19:34,221 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:19:52,898 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:20:11,583 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:20:30,254 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:20:48,949 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:21:07,619 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:21:26,292 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:21:44,985 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:22:03,680 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:22:22,361 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:22:41,034 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:22:59,718 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:23:18,407 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:23:37,082 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:23:55,775 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:24:14,444 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:24:33,119 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:24:51,795 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:25:10,480 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:25:29,168 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:25:47,852 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:26:06,527 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:26:25,226 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:26:43,910 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:27:02,592 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:27:21,302 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:27:40,007 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:27:58,702 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:28:17,379 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:28:36,051 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:28:54,734 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:28:59,578 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:29:03,845 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:29:13,446 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:29:21,240 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 14:29:32,131 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:29:50,882 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:29:54,367 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:30:09,967 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:30:29,017 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:30:48,057 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:30:58,652 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:36:42,564 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 14:36:44,811 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 14:36:59,100 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 14:36:59,198 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 14:37:12,035 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:37:30,673 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:37:49,356 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:38:07,984 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:38:26,598 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:38:45,223 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:39:03,844 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:39:22,430 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:39:41,047 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:39:59,704 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:40:18,334 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:40:36,901 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:40:55,535 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:41:14,201 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:41:32,850 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:41:51,498 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:42:10,188 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:42:28,949 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:42:47,599 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:43:06,249 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:43:24,890 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:43:43,532 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:44:02,144 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:44:20,772 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:44:39,362 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:44:57,927 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:45:16,573 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:45:35,228 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:45:53,868 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:46:12,493 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:46:31,067 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:46:49,670 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:46:56,560 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:46:59,239 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 14:46:59,888 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:53:31,246 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 14:53:33,349 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 14:53:48,424 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 14:53:48,511 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 14:53:59,164 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:54:01,529 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:54:10,912 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:54:20,576 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:54:26,520 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 14:54:39,645 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 14:54:50,421 - QuantMonitor - INFO - 板块已更新
+2026-04-01 14:54:58,011 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:01:31,969 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 15:01:34,076 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 15:01:52,906 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 15:01:52,998 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 15:02:05,772 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:02:15,030 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 15:02:24,702 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:02:43,736 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:03:02,769 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:03:21,795 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:03:40,825 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:03:59,855 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:04:18,888 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:04:37,931 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:04:56,995 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:05:16,032 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:05:35,074 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:05:54,114 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:06:21,619 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 15:06:23,728 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 15:06:36,511 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 15:06:36,594 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 15:06:49,352 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:07:08,041 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:07:14,175 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 15:07:27,664 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:07:46,322 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:08:04,735 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:08:16,017 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 15:08:16,019 - QuantMonitor - INFO - 监控股票已更新: ['000006', '000544', '000543', '000555', '000009', '000066', '000070', '000061', '000016', '000301', '000338', '000068', '000402']
+2026-04-01 15:08:28,370 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:08:29,361 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 15:08:47,006 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 15:09:02,701 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 15:09:05,402 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:11:53,408 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 16:11:55,656 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 16:12:09,211 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 16:12:09,320 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 16:12:20,817 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:12:37,584 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:12:54,268 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:25:53,996 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 16:25:56,091 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 16:26:10,109 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 16:26:10,206 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 16:26:16,755 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 16:26:23,103 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:26:35,258 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 16:26:41,513 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:27:00,226 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:27:15,697 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 16:27:18,955 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:27:36,302 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:27:52,546 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:27:56,485 - QuantMonitor - INFO - 非交易时段，无需刷新
+2026-04-01 16:27:57,195 - QuantMonitor - INFO - 非交易时段，无需刷新
+2026-04-01 16:28:09,277 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:37:27,972 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，强化学习执行功能不可用。
+2026-04-01 16:37:30,036 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.，GAN压力测试功能不可用。
+2026-04-01 16:37:43,656 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 16:37:43,755 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 16:37:56,520 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:38:14,946 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:38:33,670 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:38:52,355 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:39:11,068 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:39:29,714 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:39:38,923 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 16:39:48,116 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:40:06,811 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:40:25,507 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:40:44,223 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:41:02,921 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:41:21,623 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:41:40,335 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:41:59,046 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:42:17,734 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:42:36,419 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:42:55,118 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:43:13,620 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:43:32,292 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:43:50,975 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:44:09,657 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:44:28,364 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:44:47,069 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:45:05,765 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:45:24,475 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:45:43,198 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 16:46:01,910 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 17:24:11,206 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-01 17:24:15,133 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-01 17:24:33,674 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 17:24:33,927 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 17:25:22,444 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-01 17:25:26,658 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-01 17:25:45,953 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 17:25:46,136 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 17:32:23,333 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-01 17:32:31,314 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-01 17:32:56,921 - QuantMonitor - INFO - 已加载 5497 只股票名称
+2026-04-01 17:32:57,141 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-01 17:33:08,215 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-01 17:33:09,718 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-01 17:33:14,758 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
+2026-04-08 03:37:12,855 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-08 03:37:15,719 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-08 03:37:26,877 - QuantMonitor - INFO - 已加载 5498 只股票名称
+2026-04-08 03:37:27,001 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-17 11:19:58,364 - QuantMonitor - WARNING - stable-baselines3导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-17 11:20:04,104 - QuantMonitor - WARNING - torch导入失败: [WinError 1114] 动态链接库(DLL)初始化例程失败。 Error loading "C:\Users\86545\PycharmProjects\pythonProject3\venv\Lib\site-packages\torch\lib\c10.dll" or one of its dependencies.
+2026-04-17 11:20:17,913 - QuantMonitor - INFO - 已加载 5506 只股票名称
+2026-04-17 11:20:18,031 - QuantMonitor - INFO - 细分行业已更新 (本地)
+2026-04-17 11:20:30,757 - QuantMonitor - INFO - 数据获取错误: 连续多次获取数据为空，可能网络问题
+2026-04-17 11:20:35,767 - QuantMonitor - WARNING - 加载主力资金失败: stock_individual_fund_flow() got an unexpected keyword argument 'symbol'，使用模拟数据
